@@ -129,8 +129,8 @@ export default function Form({ applianceId }) {
         </div>
         <label htmlFor="paletteProject">Project</label>
         <select id="project" name="project" required>
-          <option value="Stores">
-            stores
+          <option value="stores">
+            Stores
           </option>
         </select>
 
